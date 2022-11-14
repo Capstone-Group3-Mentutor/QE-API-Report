@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete User Account","Delete User Account with Valid Id","SUCCESS","2022-11-14T04:56:24.878+07:00[Asia/Bangkok]","0.0","1.79"
+"Delete User Account","Delete User Account without Authorized","SUCCESS","2022-11-14T04:56:26.683+07:00[Asia/Bangkok]","0.0","3.24"
+"Delete User Account","Delete User Account With Unregistered Id","SUCCESS","2022-11-14T04:56:29.935+07:00[Asia/Bangkok]","0.0","1.78"
+"Delete User Account","Delete User Account With Invalid Id","SUCCESS","2022-11-14T04:56:31.739+07:00[Asia/Bangkok]","0.0","4.36"
+"Delete User Account","Delete User Account With Id has been deleted","SUCCESS","2022-11-14T04:56:36.119+07:00[Asia/Bangkok]","0.0","1.7"

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get All Task by Class","Get all task with valid class id","SUCCESS","2022-11-14T05:00:42.501+07:00[Asia/Bangkok]","0.0","2.87"
+"Get All Task by Class","Get all task by class without Token","SUCCESS","2022-11-14T05:00:45.387+07:00[Asia/Bangkok]","0.0","2.73"

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Single User","Get Single User with Valid Id User","SUCCESS","2022-11-14T04:56:46.291+07:00[Asia/Bangkok]","0.0","2.29"
+"Get Single User","Get Single User Using Valid Id User without Authorization","SUCCESS","2022-11-14T04:56:48.605+07:00[Asia/Bangkok]","0.0","2.0"
+"Get Single User","Get Single User with Unregistered Id User","SUCCESS","2022-11-14T04:56:50.626+07:00[Asia/Bangkok]","0.0","1.92"
+"Get Single User","Get Single User with Invalid Id User","SUCCESS","2022-11-14T04:56:52.566+07:00[Asia/Bangkok]","0.0","3.47"
+"Get Single User","Get Single User with Id User has been Deleted","SUCCESS","2022-11-14T04:56:56.062+07:00[Asia/Bangkok]","0.0","2.41"

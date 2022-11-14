@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register New Class","Post create new class using valid data with authorization","SUCCESS","2022-11-14T04:56:58.5+07:00[Asia/Bangkok]","0.0","2.06"
+"Register New Class","Post create new class using valid data without authorization","SUCCESS","2022-11-14T04:57:00.582+07:00[Asia/Bangkok]","0.0","1.93"
+"Register New Class","Post create new class with empty class name","SUCCESS","2022-11-14T04:57:02.528+07:00[Asia/Bangkok]","0.0","1.67"
+"Register New Class","Post create new class with numeric class name in Body JSON","SUCCESS","2022-11-14T04:57:04.242+07:00[Asia/Bangkok]","0.0","1.71"
+"Register New Class","Post create new class with special char class name in Body JSON","SUCCESS","2022-11-14T04:57:05.969+07:00[Asia/Bangkok]","0.0","1.89"

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Update Task","Update task with valid task id and valid data","SUCCESS","2022-11-14T05:07:20.599+07:00[Asia/Bangkok]","0.0","5.45"
+"Update Task","Update Task with valId Id and  numeric title","SUCCESS","2022-11-14T05:07:42.01+07:00[Asia/Bangkok]","0.0","5.42"
+"Update Task","Update Task with valId Id and  Special Character title","SUCCESS","2022-11-14T05:07:47.449+07:00[Asia/Bangkok]","0.0","6.15"
+"Update Task","Update Task with valId Id and  numeric description","SUCCESS","2022-11-14T05:07:59.103+07:00[Asia/Bangkok]","0.0","5.14"
+"Update Task","Update Task with valId Id and  Special Character description","SUCCESS","2022-11-14T05:08:04.258+07:00[Asia/Bangkok]","0.0","4.77"

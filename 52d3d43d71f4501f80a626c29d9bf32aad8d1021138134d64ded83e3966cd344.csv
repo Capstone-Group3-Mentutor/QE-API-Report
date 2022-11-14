@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"AssignTask","Assign task with invalid task id and valid file data","SUCCESS","2022-11-14T04:59:39.708+07:00[Asia/Bangkok]","0.0","4.72"
+"AssignTask","Assign task with unregistered task id and valid file data","SUCCESS","2022-11-14T04:59:44.447+07:00[Asia/Bangkok]","0.0","5.5"
+"AssignTask","Assign task with valid task id and invalid file data","SUCCESS","2022-11-14T04:59:49.975+07:00[Asia/Bangkok]","0.0","3.98"
+"AssignTask","Assign task with valid task id and big file size","SUCCESS","2022-11-14T04:59:53.972+07:00[Asia/Bangkok]","0.0","38.73"

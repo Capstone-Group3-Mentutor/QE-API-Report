@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get All Status","Get All Status with Authorization","SUCCESS","2022-11-14T04:58:16.013+07:00[Asia/Bangkok]","0.0","1.8"
+"Get All Status","Get All Status without Authorization","SUCCESS","2022-11-14T04:58:17.827+07:00[Asia/Bangkok]","0.0","1.77"

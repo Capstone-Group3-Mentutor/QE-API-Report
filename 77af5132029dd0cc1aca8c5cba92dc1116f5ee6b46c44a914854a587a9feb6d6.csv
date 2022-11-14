@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add Mentor Comment","Add mentor comment with unregistered forum  id and valid caption","FAILURE","2022-11-14T05:02:04.787+07:00[Asia/Bangkok]","0.0","2.71"
+"Add Mentor Comment","Add mentor comment with valid forum id and more than max caption char","FAILURE","2022-11-14T05:02:12.977+07:00[Asia/Bangkok]","0.0","2.73"
+"Add Mentor Comment","Add mentor comment with valid forum id and empty data","FAILURE","2022-11-14T05:02:18.437+07:00[Asia/Bangkok]","0.0","2.71"

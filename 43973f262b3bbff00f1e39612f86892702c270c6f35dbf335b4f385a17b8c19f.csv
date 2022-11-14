@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register New User","Post create new user input deleted email in body JSON","FAILURE","2022-11-14T04:57:27.386+07:00[Asia/Bangkok]","0.0","2.12"
+"Update User","Put update user with invalid images extention","FAILURE","2022-11-14T04:58:10.752+07:00[Asia/Bangkok]","0.0","1.74"

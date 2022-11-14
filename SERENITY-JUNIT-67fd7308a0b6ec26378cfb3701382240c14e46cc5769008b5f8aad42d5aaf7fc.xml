@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Get All Class" skipped="0" tests="2" time="4.54" timestamp="2022-11-14 04:56:37"><testcase name="Get All Class with Authorization"/><testcase name="Get All Class without Authorization"/></testsuite>

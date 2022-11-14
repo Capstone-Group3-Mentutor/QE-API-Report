@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add Mentor Comment","Add mentor comment with valid forum id and valid caption","SUCCESS","2022-11-14T05:01:59.272+07:00[Asia/Bangkok]","0.0","2.74"
+"Add Mentor Comment","Add mentor comment with invalid forum id and valid caption","SUCCESS","2022-11-14T05:02:02.023+07:00[Asia/Bangkok]","0.0","2.75"
+"Add Mentor Comment","Add mentor comment with valid forum id and int caption","SUCCESS","2022-11-14T05:02:07.509+07:00[Asia/Bangkok]","0.0","2.69"
+"Add Mentor Comment","Add mentor comment with valid forum id and float caption","SUCCESS","2022-11-14T05:02:10.221+07:00[Asia/Bangkok]","0.0","2.73"
+"Add Mentor Comment","Add mentor comment with valid forum id and special char caption","SUCCESS","2022-11-14T05:02:15.728+07:00[Asia/Bangkok]","0.0","2.69"

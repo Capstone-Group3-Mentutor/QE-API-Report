@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add Mentee Comment","Add Mentee comment with unregistered forum  id and valid caption","FAILURE","2022-11-14T04:59:16.662+07:00[Asia/Bangkok]","0.0","2.67"
+"Add Mentee Comment","Add Mentee comment with valid forum id and more than max caption char","FAILURE","2022-11-14T04:59:25.824+07:00[Asia/Bangkok]","0.0","3.56"
+"Add Mentee Comment","Add Mentee comment with valid forum id and empty data","FAILURE","2022-11-14T04:59:32.123+07:00[Asia/Bangkok]","0.0","2.84"
+"AssignTask","Assign task with valid task id and valid file data","FAILURE","2022-11-14T04:59:34.978+07:00[Asia/Bangkok]","0.0","4.71"
+"AssignTask","Assign task without Token","FAILURE","2022-11-14T05:00:32.714+07:00[Asia/Bangkok]","0.0","9.77"

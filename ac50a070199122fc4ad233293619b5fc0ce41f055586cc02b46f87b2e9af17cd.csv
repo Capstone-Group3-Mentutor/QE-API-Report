@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Update Mentor Profile","Get task with invalid task id","SUCCESS","2022-11-14T05:05:35.341+07:00[Asia/Bangkok]","0.0","2.81"
+"Update Mentor Profile","Get task with unregistered task id","SUCCESS","2022-11-14T05:05:38.181+07:00[Asia/Bangkok]","0.0","2.77"
+"Update Mentor Profile","Get detail task with valid task id without Token","SUCCESS","2022-11-14T05:05:40.973+07:00[Asia/Bangkok]","0.0","2.78"

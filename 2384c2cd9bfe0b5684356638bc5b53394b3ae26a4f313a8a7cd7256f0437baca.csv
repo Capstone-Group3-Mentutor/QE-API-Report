@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete Task","Delete task with invalid task id","SUCCESS","2022-11-14T05:05:04.335+07:00[Asia/Bangkok]","0.0","2.72"
+"Delete Task","Delete task with unregistered task id","SUCCESS","2022-11-14T05:05:07.076+07:00[Asia/Bangkok]","0.0","2.71"
+"Delete Task","Delete task without task id","SUCCESS","2022-11-14T05:05:09.807+07:00[Asia/Bangkok]","0.0","2.7"
+"Delete Task","Delete task without Token","SUCCESS","2022-11-14T05:05:12.53+07:00[Asia/Bangkok]","0.0","14.39"

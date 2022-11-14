@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Register New User" skipped="0" tests="17" time="30.01" timestamp="2022-11-14 04:57:07"><testcase name="Post create new user using valid data with authorization"/><testcase name="Post create new user using valid data without authorization"/><testcase name="Post create new user with Empty Name in Body JSON"/><testcase name="Post create new user with Empty Email in Body JSON"/><testcase name="Post create new user with Empty Password in Body JSON"/><testcase name="Post create new user with Empty Id_Class in Body JSON"/><testcase name="Post create new user with Empty Role in Body JSON"/><testcase name="Post create new user input name with more than 2 word name in body JSON"/><testcase name="Post create new user input name with special char in body JSON"/><testcase name="Post create new user input name with numeric in body JSON"/><testcase name="Post create new user input invalid email in body JSON"/><testcase name="Post create new user input deleted email in body JSON"><failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;201&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;201&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;201&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1267)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+mentutor.adminStepDef.DeleteClassStefDef.shouldReturnStatusCodeBadRequest(DeleteClassStefDef.java:42)&#13;
+✽.Should return status code 400 Bad request(classpath:features/Admin/RegisterNewUser.feature:83)&#13;
+</system-err></testcase><testcase name="Post create new user input password with alphabet in body JSON"/><testcase name="Post create new user input password with numeric in body JSON"/><testcase name="Post create new user input password with special char in body JSON"/><testcase name="Post create new user input invalid id class in body JSON"/><testcase name="Post create new user input invalid id role in body JSON"/></testsuite>

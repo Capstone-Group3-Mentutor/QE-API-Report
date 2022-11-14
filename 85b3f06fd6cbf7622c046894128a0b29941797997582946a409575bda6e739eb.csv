@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete a class","Delete Exiting Class with Valid Id","SUCCESS","2022-11-14T04:56:04.335+07:00[Asia/Bangkok]","0.0","8.57"
+"Delete a class","Delete Exiting Class without Authorized","SUCCESS","2022-11-14T04:56:12.946+07:00[Asia/Bangkok]","0.0","3.19"
+"Delete a class","Delete Exiting Class With Unregistered Id","SUCCESS","2022-11-14T04:56:16.158+07:00[Asia/Bangkok]","0.0","2.1"
+"Delete a class","Delete Exiting Class With Invalid Id","SUCCESS","2022-11-14T04:56:18.29+07:00[Asia/Bangkok]","0.0","4.56"
+"Delete a class","Delete Exiting Class With Id has been deleted","SUCCESS","2022-11-14T04:56:22.878+07:00[Asia/Bangkok]","0.0","1.94"

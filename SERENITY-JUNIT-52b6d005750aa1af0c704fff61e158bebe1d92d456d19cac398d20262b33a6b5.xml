@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Add Task by Mentor" skipped="0" tests="19" time="160.12" timestamp="2022-11-14 05:02:21"><testcase name="Create Task with all valid data"/><testcase name="Create Task with numeric title"/><testcase name="Create Task with Special Character title"/><testcase name="Create Task with more than 255 character title"/><testcase name="Create Task with numeric description"/><testcase name="Create Task with Special Character description"/><testcase name="Create Task with more than 255 character description"/><testcase name="Create Task with invalid Images extension"/><testcase name="Create Task with invalid file extension"/><testcase name="Create Task with big file size"/><testcase name="Create Task with invalid time format"/><testcase name="Create Task with incomplete data"/><testcase name="Create Task with empty data"/><testcase name="Create Task without Token"><failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;520&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;520&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;520&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1267)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+mentutor.general.ResponseCode.shouldReturnBadRequest(ResponseCode.java:24)&#13;
+✽.Should return 400 Bad Request(classpath:features/Mentor/AddTaskbyMentor.feature:126)&#13;
+</system-err></testcase></testsuite>
